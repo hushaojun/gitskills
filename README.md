@@ -5,3 +5,4 @@ merge without discard branch
 Git is free software
 test the use of stash
 location2
+location 1
